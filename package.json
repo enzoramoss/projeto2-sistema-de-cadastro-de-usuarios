@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "projeto-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "jest": "^30.1.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
